@@ -1,0 +1,19 @@
+ # Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Jupyter Notebook (if you ever add EDA files)
+.ipynb_checkpoints
+
+# OS System Files (Windows/Mac)
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporary Excel/Power BI Locks
+~$*.xlsx
+*.pbitemp
